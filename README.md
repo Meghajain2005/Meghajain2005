@@ -8,12 +8,14 @@
   <br><br>
 
   <!-- ACTION BADGES -->
+  <div align="center">
   <a href="https://meghajain2005.github.io/terminal-portfolio" target="_blank">
     <img src="https://img.shields.io/badge/⚡_LAUNCH_INTERACTIVE_TERMINAL-MEGHAJAIN2005-ff2a85?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=120917" alt="Launch Terminal" />
   </a>
   <a href="https://www.linkedin.com/in/megha-jain-a4a378307" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-MEGHA_JAIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=120917" alt="LinkedIn" />
   </a>
+</div>
 
 </div>
 
