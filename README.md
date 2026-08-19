@@ -21,8 +21,3 @@
 
 ### `meghajain2005@github:~ $ cat about_me.txt`
 
-```text
-> Name       : Megha Jain
-> Role       : Aspiring SDE/Exploring web dev & AI
-> Focus      : Java, TypeScript, Interactive Web Applications
-> Live App   : meghajain2005.github.io/terminal-portfolio
